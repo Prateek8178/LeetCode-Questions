@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0115-distinct-subsequences](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 <!---LeetCode Topics End-->
