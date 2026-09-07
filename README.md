@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
+| [0242-valid-anagram](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0940-distinct-subsequences-ii](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0940-distinct-subsequences-ii) |
 ## Dynamic Programming
 |  |
@@ -53,8 +54,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
