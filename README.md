@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0049-group-anagrams](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3904-smallest-stable-index-ii) |
 ## Linked List
