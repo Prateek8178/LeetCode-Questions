@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0940-distinct-subsequences-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateek8178/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Greedy
