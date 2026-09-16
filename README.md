@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0835-image-overlap](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0835-image-overlap) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateek8178/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3903-smallest-stable-index-i](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3903-smallest-stable-index-i) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0525-contiguous-array](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
