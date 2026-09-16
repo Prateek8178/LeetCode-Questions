@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0940-distinct-subsequences-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateek8178/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0525-contiguous-array](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 ## Quickselect
 |  |
 | ------- |
@@ -155,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateek8178/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
