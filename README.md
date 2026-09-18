@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0115-distinct-subsequences](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
