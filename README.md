@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0940-distinct-subsequences-ii](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prateek8178/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateek8178/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Prateek8178/LeetCode-Questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prateek8178/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prateek8178/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Heap (Priority Queue)
 |  |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Prateek8178/LeetCode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Prateek8178/LeetCode-Questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Union-Find
 |  |
