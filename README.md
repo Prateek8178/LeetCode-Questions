@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0525-contiguous-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateek8178/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -284,4 +286,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Prateek8178/LeetCode-Questions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Prateek8178/LeetCode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Prateek8178/LeetCode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
