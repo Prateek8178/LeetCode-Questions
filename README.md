@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/Prateek8178/LeetCode-Questions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Prateek8178/LeetCode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Prateek8178/LeetCode-Questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [3360-stone-removal-game](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3360-stone-removal-game) |
 | [3524-find-x-value-of-array-i](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3360-stone-removal-game](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Prateek8178/LeetCode-Questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
